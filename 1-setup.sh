@@ -124,6 +124,7 @@ PKGS=(
 'kscreen'
 'kvantum-qt5'
 'kde-gtk-config'
+'keepass'
 'kitty'
 'konsole'
 'kscreen'
