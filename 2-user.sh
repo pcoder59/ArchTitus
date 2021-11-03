@@ -38,6 +38,8 @@ PKGS=(
 'nordic-kde-git'
 'nordic-theme'
 'noto-fonts-emoji'
+'optimus-manager'
+'optimus-manager-qt'
 'papirus-icon-theme'
 'plasma-pa'
 'ocs-url' # install packages from websites
@@ -47,8 +49,8 @@ PKGS=(
 'ttf-hack'
 'ttf-meslo' # Nerdfont package
 'ttf-roboto'
-'zoom' # video conferences
 'snap-pac'
+'vscodium-bin'
 )
 
 for PKG in "${PKGS[@]}"; do
